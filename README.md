@@ -17,7 +17,7 @@ git commit -m "write a meaningful commit message here"
 git push -u origin main 
 ```
 
-** Naming convention: use small cases with hyphens (-). No spaces**
+**Naming convention: use small cases with hyphens (-). No spaces**
 
 ```
 git add . ; git commit -m "message" ; git push -u origin main 
